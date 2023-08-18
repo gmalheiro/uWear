@@ -10,7 +10,7 @@ body{
 .main-header{
     width: 100%;
     background-color: #ffaadd;
-    padding: 8px 16px;
+    padding: 16px 16px;
 }
 
 .main-header > div{
@@ -23,7 +23,7 @@ body{
     font-weight: bold;
     text-decoration: none;
     font-style: italic;
-    font-size: 22px;
+    font-size: 18px;
 } 
 
 .main-nav{
