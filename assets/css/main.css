@@ -23,13 +23,13 @@ body{
     font-weight: bold;
     text-decoration: none;
     font-style: italic;
-    font-size: 18px;
+    font-size: 22px;
 } 
 
 .main-nav{
     display: inline-block;
     text-align: right;
-    width: calc(100% - 74px);
+    width: calc(100% - 82px);
     vertical-align: middle;
 }
 
