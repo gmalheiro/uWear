@@ -70,3 +70,19 @@ body{
     background-color: white;
     border-bottom: none;
 }
+
+#bg-overview{
+    background-image: url(../imgs/clothees-hero-bg.jpg);
+    height: 550px;
+    padding: 10px;
+    background-size: cover;
+    background-position:top;
+}
+
+.about h1{
+    color: #ffaadd;
+}
+
+.about p{
+    font-weight: 600;
+}
